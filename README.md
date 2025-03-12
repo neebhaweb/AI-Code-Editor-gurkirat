@@ -4,7 +4,7 @@ A simple web app for real-time code editing with friends, offline support, and A
 Setup
 
 1.Clone & Install:
-git clone <your-repo-url>
+git clone https://github.com/neebhaweb/AI-Code-Editor-gurkirat.git
 cd collaborative-code-editor
 npm install
 
