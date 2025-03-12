@@ -5,7 +5,6 @@ Setup
 
 1.Clone & Install:
 git clone https://github.com/neebhaweb/AI-Code-Editor-gurkirat.git
-cd collaborative-code-editor
 npm install
 
 2.Add OpenAI Key:
